@@ -112,7 +112,6 @@
 		L.SetSleeping(200)
 
 
-/* Fortuna edit: flapping your wings disabled
 /datum/emote/living/flap
 	key = "flap"
 	key_third_person = "flaps"

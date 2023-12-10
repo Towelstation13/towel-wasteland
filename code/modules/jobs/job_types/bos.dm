@@ -101,7 +101,7 @@ Head Paladin
 /datum/outfit/job/bos/f13headpaladin
 	name = "Head Paladin"
 	jobtype = /datum/job/bos/f13headpaladin
-	uniform = 		/obj/item/clothing/under/f13/recon
+	uniform = 		/obj/item/clothing/under/syndicate/brotherhood
 	suit = 			/obj/item/clothing/suit/armor/f13/power_armor/t51green
 	head = 			/obj/item/clothing/head/helmet/f13/power_armor/t51b/bos
 	suit_store = 	/obj/item/gun/energy/laser/rcw
@@ -332,7 +332,7 @@ Paladin
 /datum/outfit/job/bos/f13paladin
 	name =	"Paladin"
 	jobtype =	/datum/job/bos/f13paladin
-	uniform =	/obj/item/clothing/under/f13/recon
+	uniform =	/obj/item/clothing/under/syndicate/brotherhood
 	accessory =	/obj/item/clothing/accessory/bos/paladin
 	mask =	/obj/item/clothing/mask/gas/sechailer
 	belt =	/obj/item/storage/belt/military/assault
