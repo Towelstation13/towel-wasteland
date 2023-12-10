@@ -138,7 +138,6 @@
 	message = "flaps their wings ANGRILY!"
 	restraint_check = TRUE
 	wing_time = 10
-*/
 
 /datum/emote/living/frown
 	key = "frown"
