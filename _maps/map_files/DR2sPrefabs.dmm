@@ -175,7 +175,7 @@
 "aB" = (
 /obj/structure/bed,
 /obj/item/bedsheet/red{
-	dream_messages = list("red","breasts","penis","anus","sex","penetration","Lewd")
+	dream_messages = list("red")
 	},
 /turf/open/floor/f13{
 	icon_state = "floorrusty"
