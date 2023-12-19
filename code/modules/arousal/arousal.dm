@@ -11,7 +11,7 @@
 	var/hidden_socks = FALSE
 
 //Mob procs
-/mob/living/carbon/human/verb/underwear_toggle()
+/* /mob/living/carbon/human/verb/underwear_toggle()
 	set name = "Toggle undergarments"
 	set category = "IC"
 
@@ -34,7 +34,7 @@
 		hidden_socks = on_off
 
 	update_body(TRUE)
-
+*/
 
 /mob/living/carbon/human/proc/adjust_arousal(strength,aphro = FALSE,maso = FALSE) // returns all genitals that were adjust
 	var/list/obj/item/organ/genital/genit_list = list()
@@ -304,10 +304,10 @@
 					mob_fill_container(picked_organ, fluid_container)
 
 	mb_cd_timer = world.time + mb_cd_length
-
+/*
 /mob/living/carbon/human/verb/climax_verb()
 	set category = "IC"
 	set name = "Climax"
 	set desc = "Lets you choose a couple ways to ejaculate."
 	mob_climax()
-
+*/
