@@ -600,7 +600,7 @@
 			if(new_tail != "None")
 				H.dna.features["taur"] = "None"
 		H.update_body()
-
+/*
 	else if (select_alteration == "Taur body")
 		var/list/snowflake_taur_list = list("Normal" = null)
 		for(var/path in GLOB.taur_list)
@@ -675,7 +675,7 @@
 		H.update_genitals()
 		H.apply_overlay()
 		H.give_genital(/obj/item/organ/genital/breasts)
-
+*/
 	else
 		return
 
