@@ -9,3 +9,6 @@
 ###############################################################################################
 
 XPokee = Host
+SpaceManSpark = Administrator
+Snailomi = Administrator
+Fluffyseal = Administrator
